@@ -1,4 +1,4 @@
-# Modes 🔲
+# Modes
 
 Modes is a modular design system for CSS.
 
