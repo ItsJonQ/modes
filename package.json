@@ -1,0 +1,23 @@
+{
+  "name": "modes",
+  "version": "0.0.1",
+  "description": "Modes is a modular design system for CSS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "gitbook install && gitbook serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsJonQ/modes.git"
+  },
+  "author": "Jon Quach <itsjonq@gmail.com> (https://jonquach.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ItsJonQ/modes/issues"
+  },
+  "homepage": "https://github.com/ItsJonQ/modes#readme",
+  "devDependencies": {
+    "gitbook-cli": "2.3.2"
+  }
+}
