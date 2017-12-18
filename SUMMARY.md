@@ -1,5 +1,8 @@
 # Table of Contents
 
+* [Modes](./README.md)
+
+
 ### Guides
 * [Introduction](./README.md)
 * [Philosophy](./philosophy.md)
