@@ -5,7 +5,6 @@
   "plugins": [
     "edit-link",
     "github",
-    "-search",
     "codeblock-disable-glossary",
     "collapsible-menu",
     "anchors"
