@@ -1,10 +1,10 @@
-# Hyper
+# Modes
 
-Hyper is an adaptive CSS philosophy, with a focus on components and scaling.
+Modes is a modular design system for CSS.
 
 (WIP)
 
-## Hyper…
+## Modes…
 
 * Draws inspiration from many CSS frameworks and architecture ideologies
 * Recognizes that implementation is situational
