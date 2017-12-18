@@ -17,5 +17,8 @@
     "github": {
       "url": "https://github.com/itsjonq/modes/"
     }
+  },
+  "links": {
+    "sidebar": false
   }
 }

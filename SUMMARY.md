@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
 
 ### Guides
 * [Introduction](./README.md)
